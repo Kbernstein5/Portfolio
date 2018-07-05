@@ -1,0 +1,14 @@
+@import "../../index.css";
+
+.welcome-text {
+	margin-top: 40px;
+}
+
+.welcome-state-text {
+	font-weight: 300;
+}
+
+.welcome-desc-text {
+	text-decoration: line-through;
+	text-decoration-color: #d7c6bd;
+}

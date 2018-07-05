@@ -1,0 +1,14 @@
+@import "../../index.css";
+
+#home {
+	text-align: center;
+}
+
+.welcome-image {
+	display: block;
+	margin-top: 300px;
+	width: 100px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}

@@ -1,0 +1,19 @@
+@import "../../index.css";
+
+$textColor: #ffffff;
+$footerBackground: #222222;
+
+.footer {
+	background-color: $footerBackground;
+	position: relative;
+	bottom: 0;
+	width: 100%;
+
+	p {
+		color: $textColor;
+		text-align: center;
+		padding: 20px;
+		font-size: 10px;
+		margin-bottom: 0;
+	}
+}

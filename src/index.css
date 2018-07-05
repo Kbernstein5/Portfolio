@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,500,700");
+
+body {
+	margin: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	font-family: "Montserrat", sans-serif;
+	line-height: 1;
+	text-align: center;
+	min-height: 100vh;
+	width: 100%;
+}
+
+ol,
+li,
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+	body {
+		width: 100%;
+	}
+}
